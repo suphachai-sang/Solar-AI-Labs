@@ -6,7 +6,7 @@
 
 ใช้ AI ช่วยสร้างโปรแกรมที่ถอดข้อมูลจากไฟล์ `HW04-Input.pdf` และแสดงขั้นตอนและกิจกรรมเป็นภาพ timeline โดยใช้ `HW04-Output.jpg` เป็นตัวอย่างแนวทางการนำเสนอ
 
-ข้อมูล วันที่ และกิจกรรมในผลงานต้องมาจากไฟล์ PDF ผู้สอบสามารถเลือกเครื่องมือ เทคโนโลยี รูปแบบการใช้งาน และออกแบบรายละเอียดเพิ่มเติมได้เอง โดยใช้เวลา **10–20 นาที**
+ข้อมูลต้องมาจากไฟล์ PDF 
 
 ### สิ่งที่ต้องส่ง
 
@@ -21,9 +21,9 @@
 
 ### Task
 
-Use AI to help create a program that extracts information from `HW04-Input.pdf` and presents its steps and activities as a visual timeline, using `HW04-Output.jpg` as a reference for the presentation.
+Use AI to help create a program that extracts information from `HW04-Input.pdf` and presents the steps and activities as a visual timeline, using `HW04-Output.jpg` as a reference for the presentation.
 
-The information, dates, and activities in your output must come from the PDF. Choose your own tools, technologies, interface, and additional design details. You have **10–20 minutes**.
+The information must come from the PDF.
 
 ### Submission
 

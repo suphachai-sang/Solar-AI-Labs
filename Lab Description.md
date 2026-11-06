@@ -1,13 +1,13 @@
 # Lab Description
 
-ภาพรวมโจทย์สำหรับ developer ที่ใช้ AI ช่วยพัฒนา โดยแต่ละ Lab ออกแบบสำหรับเวลา **10–20 นาที** และให้ผู้สอบตรวจสอบผลงานของตนเอง
+ภาพรวมโจทย์สำหรับ ที่ใช้ AI ช่วยพัฒนา โดยแต่ละ Lab ออกแบบสำหรับเวลา **10–20 นาที** และให้ผู้สอบตรวจสอบผลงานของตนเอง
 
-| Lab | งานหลัก | จุดที่ทำให้ยาก |
-|---|---|---|
-| **1. Sales Dashboard** | รวมข้อมูลยอดขายจาก CSV และสร้าง dashboard | ทำความเข้าใจข้อมูล เลือกตัวชี้วัด และตรวจความถูกต้องของตัวเลข |
-| **2. Document Extraction and Requirements Summary** | ดึงข้อมูลจาก PowerPoint เป็น Markdown แล้วใช้ LLM สรุป requirement | รักษาบริบทของเอกสาร ตรวจข้อมูลที่ดึงไม่ได้ และตรวจสรุปเทียบกับสไลด์ต้นฉบับ |
-| **3. LangGraph Agent Orchestrator** | สร้างเว็บที่ประสาน specialist ด้วย LangGraph และเรียก LLM จริง | จัดการ routing, calculator, การเชื่อมต่อ LLM, trace และการทดสอบร่วมกัน |
-| **4. Document to Timeline** | ถอดข้อมูลจาก PDF และแสดงกิจกรรมเป็น timeline โดยใช้ภาพตัวอย่างเป็นแนวทาง | อ่านเอกสารสแกนภาษาไทย จับคู่วันที่กับกิจกรรม และตรวจความถูกต้องของภาพที่สร้าง |
+| Lab | งานหลัก 
+|---|---|
+| **1. Sales Dashboard** | รวมข้อมูลยอดขายจาก CSV และสร้าง dashboard |
+| **2. Document Extraction and Requirements Summary** | ดึงข้อมูลจาก PowerPoint เป็น Markdown แล้วใช้ LLM สรุป requirement | 
+| **3. LangGraph Agent Orchestrator** | สร้างเว็บที่ประสาน specialist ด้วย LangGraph และเรียก LLM จริง |
+| **4. Document to Timeline** | ถอดข้อมูลจาก PDF และแสดงกิจกรรมเป็น timeline โดยใช้ภาพตัวอย่างเป็นแนวทาง | 
 
 ## ทักษะที่วัด
 
